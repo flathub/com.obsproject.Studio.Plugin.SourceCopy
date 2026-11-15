@@ -11,6 +11,10 @@
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>GPL-2.0</project_license>
   <releases>
-    <release version="0.3.1" date="2026-04-11" />
+    <release version="0.4.0" date="2026-11-15">
+      <url type="details">https://github.com/exeldro/obs-source-copy/releases/tag/0.4.0</url>
+      <description></description>
+    </release>
+    <release version="0.3.1" date="2026-04-11"/>
   </releases>
 </component>

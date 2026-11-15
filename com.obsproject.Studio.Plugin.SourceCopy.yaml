@@ -18,8 +18,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/exeldro/obs-source-copy.git
-        tag: 0.3.1
-        commit: 8b7ce16e8d5430ce898dcd11e45280cd1c03f64f
+        tag: 0.4.0
+        commit: 22d6fc783d4aad35dceafc4d42d910d1f5325ad4
         x-checker-data:
           type: git
           is-main-source: true
